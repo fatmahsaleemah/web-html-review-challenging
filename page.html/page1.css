@@ -1,0 +1,31 @@
+body{
+    background-image: url(images/ويكيبيديا.jpg) ;
+    background-attachment: fixed;
+}
+
+
+.a{
+    border: 5px outset #e2e5eb;
+    background-color: #d9e6f7; 
+    text-align: center;
+  }
+  #g{
+    text-decoration: none;  
+    color: black;
+  }
+  .t{
+    border: 5px outset #e2e5eb;
+    background-color: #f5d7e4; 
+    text-align: center;
+  }
+  .r{
+    border: 5px outset #e2e5eb;
+    background-color: #e3d2e5; 
+    text-align: center; 
+  }
+  .i{
+    background-color: #aacbf2;
+   widows: 350px; ;
+   float: center;
+  
+         }
